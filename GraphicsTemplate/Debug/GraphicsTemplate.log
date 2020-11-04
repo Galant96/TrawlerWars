@@ -1,0 +1,5 @@
+﻿  GraphicsTemplate.cpp
+c:\users\galan\desktop\bartosz galantowicz - 1700994 - trawler wars assignment\graphicstemplate\graphicstemplate.cpp(486): warning C4018: '<': signed/unsigned mismatch
+c:\users\galan\desktop\bartosz galantowicz - 1700994 - trawler wars assignment\graphicstemplate\graphicstemplate.cpp(506): warning C4018: '<': signed/unsigned mismatch
+  GraphicsTemplate.vcxproj -> C:\Users\galan\Desktop\Bartosz Galantowicz - 1700994 - Trawler Wars Assignment\GraphicsTemplate\Debug\GraphicsTemplate.exe
+  GraphicsTemplate.vcxproj -> Debug\GraphicsTemplate.pdb (Full PDB)
